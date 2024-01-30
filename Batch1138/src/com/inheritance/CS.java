@@ -1,5 +1,6 @@
 package com.inheritance;
 
-public class CS {
-
+public class CS  extends Department{
+  String lab;
+	
 }
